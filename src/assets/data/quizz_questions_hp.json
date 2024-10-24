@@ -1,0 +1,111 @@
+{
+  "title": "De qual casa de Harry Potter você é?",
+  "questions":[
+    {
+      "id": 1,
+      "question": "Você entra em uma sala e vê um baú misterioso brilhando no canto – o que você faz?",
+      "options":[
+        {"id": 1, "name": "Dar uma olhada! A aventura te espera!", "alias": "A"},
+        {"id": 2, "name": "Planejar a melhor forma de pegá-lo sem ser pego", "alias": "B"},
+        {"id": 3, "name": "Analisar o baú com cuidado – que tipo de magia pode ser essa?", "alias": "C"},
+        {"id": 4, "name": "Verificar se alguém mais pode precisar de ajuda com isso primeiro", "alias": "D"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Você recebeu uma detenção por algo que não fez – como você lida com isso?",
+      "options":[
+        {"id": 1, "name": "Proteste alto! Você não vai levar a culpa por isso! ", "alias": "A"},
+        {"id": 2, "name": "Convença o professor de que foi um mal-entendido e saia ileso.", "alias": "B"},
+        {"id": 3, "name": "Use o tempo para ler aquele livro que você queria terminar. ", "alias": "C"},
+        {"id": 4, "name": "Cumpra a detenção e aguente – regras são regras. ", "alias": "D"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Um aluno mais jovem pede direções para a biblioteca – o que você faz?",
+      "options":[
+        {"id": 1, "name": "Leve-o até a biblioteca.", "alias": "A"},
+        {"id": 2, "name": "Diga que está muito ocupado, desculpe!", "alias": "B"},
+        {"id": 3, "name": "Desenhe um mapa rápido para ele.", "alias": "C"},
+        {"id": 4, "name": "Leve-o, ajude-o a se registrar e faça amizade com ele!", "alias": "D"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é a sua criatura mágica favorita? ",
+      "options":[
+        {"id": 1, "name": "Hipogrifo – tão fofo e leal.", "alias": "A"},
+        {"id": 2, "name": "Basilisco – mortal, astuto e absolutamente aterrorizante.", "alias": "B"},
+        {"id": 3, "name": "Fênix – sábia, imortal e entra em chamas (quão incrível é isso?!).", "alias": "C"},
+        {"id": 4, "name": "Elfo Doméstico – eles são trabalhadores e sempre prontos para ajudar.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Você está diante de um teste difícil – como você se prepara? ",
+      "options":[
+        {"id": 1, "name": "Junte os amigos para estudar – nós conseguimos!", "alias": "A"},
+        {"id": 2, "name": "Tente descobrir o que provavelmente estará na prova e estude isso.", "alias": "B"},
+        {"id": 3, "name": "Estude sozinho na biblioteca – eu preciso de silêncio.", "alias": "C"},
+        {"id": 4, "name": "Revise e pratique as anotações diariamente – cada pouquinho ajuda.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual matéria em Hogwarts você está mais animado para aprender? ",
+      "options":[
+        {"id": 1, "name": "Defesa Contra as Artes das Trevas – venham os duelos!", "alias": "A"},
+        {"id": 2, "name": "Feitiços – você pode usar magia para praticamente qualquer coisa!", "alias": "B"},
+        {"id": 3, "name": "Poções – há uma ciência na magia, e é fascinante.", "alias": "C"},
+        {"id": 4, "name": "Herbologia – trabalhar com plantas é tão relaxante.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Você está em um jogo de Quadribol, e seu time está perdendo – o que você faz?",
+      "options":[
+        {"id": 1, "name": "Torça mais alto – eles ainda podem ganhar se derem o melhor de si!", "alias": "A"},
+        {"id": 2, "name": "Pense em um plano para garantir que seu time vença!", "alias": "B"},
+        {"id": 3, "name": "Observe como o outro time está jogando – como eles podem perder?", "alias": "C"},
+        {"id": 4, "name": "Mostre apoio e lealdade infinitos – ganhando ou perdendo!", "alias": "D"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Se você pudesse usar um feitiço pelo resto da vida, qual seria?",
+      "options":[
+        {"id": 1, "name": "Expelliarmus – a melhor defesa é um bom ataque.", "alias": "A"},
+        {"id": 2, "name": "Impervius – nada pode me tocar, nem mesmo a chuva.", "alias": "B"},
+        {"id": 3, "name": "Accio – invocar coisas é tão prático.", "alias": "C"},
+        {"id": 4, "name": "Lumos – manter a luz acesa é útil em lugares escuros.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Qual seria sua atividade ideal de fim de semana?",
+      "options":[
+        {"id": 1, "name": "Ir em uma aventura espontânea com amigos.", "alias": "A"},
+        {"id": 2, "name": "Planejar seu próximo grande movimento para ficar à frente.", "alias": "B"},
+        {"id": 3, "name": "Ler sobre novos tópicos e expandir seu conhecimento.", "alias": "C"},
+        {"id": 4, "name": "Relaxar na sala comunal com lanches e amigos.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Qual qualidade você mais valoriza nos outros?",
+      "options":[
+        {"id": 1, "name": "Coragem – você respeita aqueles que defendem o que é certo.", "alias": "A"},
+        {"id": 2, "name": "Ambição – você admira pessoas que perseguem o que desejam.", "alias": "B"},
+        {"id": 3, "name": "Inteligência – você adora uma boa conversa profunda.", "alias": "C"},
+        {"id": 4, "name": "Gentileza – tratar os outros com cuidado é o mais importante.", "alias": "D"}
+      ]
+    }
+  ],
+  "results":{
+  	"A": "Grifinória",
+  	"B": "Sonserina",
+    "C": "Corvinal",
+    "D": "Lufa-Lufa"
+  }
+}
